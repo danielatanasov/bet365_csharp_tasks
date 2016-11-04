@@ -1,0 +1,6 @@
+c:\users\datanasov\documents\visual studio 2015\Projects\tasks2\tasks2\bin\Debug\tasks2.exe.config
+c:\users\datanasov\documents\visual studio 2015\Projects\tasks2\tasks2\bin\Debug\tasks2.exe
+c:\users\datanasov\documents\visual studio 2015\Projects\tasks2\tasks2\bin\Debug\tasks2.pdb
+c:\users\datanasov\documents\visual studio 2015\Projects\tasks2\tasks2\obj\Debug\tasks2.csprojResolveAssemblyReference.cache
+c:\users\datanasov\documents\visual studio 2015\Projects\tasks2\tasks2\obj\Debug\tasks2.exe
+c:\users\datanasov\documents\visual studio 2015\Projects\tasks2\tasks2\obj\Debug\tasks2.pdb
